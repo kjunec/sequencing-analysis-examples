@@ -1,11 +1,3 @@
-
-# Description of Code: this was written for the use of non-computational scientists
-# who were wanting to do their own analysis. My goal was that they would define a 
-#few variables below for their purpose and run the script on the command line. 
-#Beginning with deduplicated FASTQ files, this script analyzes the performance of a
-# hybridization-based assay using HSMetrics. 
-
-
 #!/bin/bash
 
 ############################################################################
